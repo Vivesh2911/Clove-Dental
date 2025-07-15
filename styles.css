@@ -64,7 +64,7 @@ body {
 .left-section {
   flex: 1;
   min-width: 400px;
-  background: url('doctor.png') no-repeat center/cover;
+  background: url('images/doctor.png') no-repeat center/cover;
   position: relative;
 }
 
@@ -997,14 +997,14 @@ label {
 
 
 .bg-offer-image {
-  background-image: url('offl.png'); /* adjust path if needed */
+  background-image: url('images/offl.png'); /* adjust path if needed */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .bg-two-images {
-  background-image:  url('safety1.jpg'); /* Replace with your actual image names */
+  background-image:  url('images/safety1.jpg'); /* Replace with your actual image names */
   background-position: left top, center center; /* or adjust like: center left, center right */
   background-repeat: no-repeat, no-repeat;
   background-size: auto, cover;
